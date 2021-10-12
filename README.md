@@ -10,7 +10,7 @@ Note that all numbers are assumed to be integer for ease of display, we can easi
 extend it to include float/double numbers.
 
 ## Run the web server locally
-You can run the `main` method of the `WebServer` class, and it should start up the web server on your local machine.
+The project is compiled successfully with java 1.8. You can run the `main` method of the `WebServer` class, and it should start up the web server on your local machine.
 
 You can then run the GET request in your browser or cURL or postman, etc:
 * min: 
@@ -39,4 +39,3 @@ You can then run the GET request in your browser or cURL or postman, etc:
 ```
 mvn test
 ```
-java 1.8
