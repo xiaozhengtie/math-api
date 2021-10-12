@@ -36,6 +36,7 @@ You can then run the GET request in your browser or cURL or postman, etc:
 
 
 ## Run the unit test
+We have some unit test in src/test/java folder.
 ```
 mvn test
 ```
